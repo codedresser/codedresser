@@ -6,6 +6,5 @@ I have always loved making things, being creative and working with different peo
 
 Now, I am learning to code and have realised the world of tech is filled with people who like to learn. Tech is always changing and developing. "What can I learn next?" will become a necessity. And I look forward to it. 
 
-So ask me today "What will I learn next?" and the answer you will get is "Next.js".
 
 - 📫 How to reach me: https://codedresser.myportfolio.com/
